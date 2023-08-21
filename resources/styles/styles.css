@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+  overflow: hidden;
+}
+
+h1 {
+  margin-top: 5%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+
+
+.heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5%;
+}
+
+.section {
+  display: inline;
+}
+
+.middle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 7%;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#personalBackground {
+  margin-left: 4%;
+  border-bottom: thin solid black;
+  border-right: thin solid black;
+
+}
+
+#experience {
+  margin-right: 10%;
+}
+
+
+img {
+
+  border-radius: 50%;
+  opacity: .8;
+}
