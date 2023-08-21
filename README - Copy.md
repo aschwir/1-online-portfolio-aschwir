@@ -25,7 +25,9 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 
 <!--- Update the following line with your grade --->
 
-I should get (20 ) out of 20 on this assignment.
+I should get (20) out of 20 on this assignment.
+
+I lost all my commits when I had to create a new repository to allow for hosting my page
 
 ## Self-Reflection:
 
@@ -33,4 +35,9 @@ It took a little longer than I expected. I spent a lot of time trying to rename 
 
 ### How long it took me to finish this?
 
-## 4 hours including the time to find the right photo and makes necessary the necessary changes.
+## 9 hours including the time to find the right photo and makes necessary the necessary changes.
+
+I came across some issues when coming back to complete the assignment.
+#1 npm test came back with two errors after not having any the day before
+#2 I had to delete the original repository add create a new one to be able to host the page
+#3 I have been repeating getting messages about the failure of Github classroom work flow failure
